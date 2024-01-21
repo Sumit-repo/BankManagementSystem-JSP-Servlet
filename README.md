@@ -7,10 +7,8 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -80,6 +78,9 @@ Welcome to the Bank Management System, a Java web application built using JSP an
    ```
 4. Deploy the application to your servlet container.
 5. Access the application at `http://localhost:8080/Your-project-name`
+
+## Contributions
+Contributions are welcome! If you have suggestions or find bugs, please open an issue or submit a pull request. Follow our contribution guidelines for more details.
 
 ## License
 This project is licensed under the MIT License.
