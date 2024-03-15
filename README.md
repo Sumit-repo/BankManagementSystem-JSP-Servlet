@@ -77,7 +77,7 @@ Welcome to the Bank Management System, a Java web application built using JSP an
    mvn clean install
    ```
 4. Deploy the application to your servlet container.
-5. Access the application at `http://localhost:8080/Your-project-name`
+5. Access the application at `http://localhost:8080/bank-website`
 
 ## Contributions
 Contributions are welcome! If you have suggestions or find bugs, please open an issue or submit a pull request. Follow our contribution guidelines for more details.
